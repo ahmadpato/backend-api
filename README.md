@@ -1,2 +1,2 @@
 # backend-api
-restfull api with laravel for intefragtion with vue js
+restfull api with laravel 8
